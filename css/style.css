@@ -5863,12 +5863,12 @@ a.close.disabled {
     content: "";
     background: rgba(23, 24, 16, 0.7);
     width: 100%;
-    height: 50vh;
+    height: 60vh;
     overflow: hidden;
    
   }
   .w-100{
-    height: 50vh;
+    height: 60vh;
   }
 }
 
