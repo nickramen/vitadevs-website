@@ -5856,6 +5856,22 @@ a.close.disabled {
   content: "";
 }
 
+
+@media (max-width: 576px) {
+  .carousel-inner {
+    position: relative;
+    content: "";
+    background: rgba(23, 24, 16, 0.7);
+    width: 100%;
+    height: 50vh;
+    overflow: hidden;
+   
+  }
+  .w-100{
+    height: 50vh;
+  }
+}
+
 .carousel-item {
   position: relative;
   display: none;
