@@ -5883,6 +5883,14 @@ a.close.disabled {
 
 }
 
+/*fotos del team en forma circular*/
+.mb-3 img{
+  width: 100px; 
+  height: 100px;
+  border-radius: 50%;
+}
+
+
 .carousel-item {
   position: relative;
   display: none;
